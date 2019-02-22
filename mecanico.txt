@@ -1,0 +1,34 @@
+
+
+cliente
+
+nome
+rg
+cpf
+endereco
+telefone fixo
+telefone celular
+
+Veiculo
+
+marca
+cor
+placa
+ano
+modelo
+quilometragem
+
+os abrir
+- Descrição da reclamação do cliente/defeito do carro/serviços a executar
+- serviço de terceiro
+
+os fechar
+- descrição do serviço executado
+- peças substituídas
+- peças substituídas em garantia
+- mecanico que executou o serviço
+- servico de terceiro
+
+***vistoria de veículo antes de entrar
+ 
+
